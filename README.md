@@ -1,7 +1,7 @@
 # Test_Sakana
 
 ## Configuration
-# Model/contact.php
+### Model/message.php
 
 Afin de connecter votre base de donnée, vous devez mettre vos informations dans le fichier `Model/message.php`.
 
