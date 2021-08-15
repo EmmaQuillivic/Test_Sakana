@@ -3,7 +3,7 @@
 ## Configuration
 # Model/contact.php
 
-Afin de connecter votre base de donnée, vous devez mettre vos informations dans le fichier `Model/contact.php`.
+Afin de connecter votre base de donnée, vous devez mettre vos informations dans le fichier `Model/message.php`.
 
 ```php
     35: $user = 'root';
